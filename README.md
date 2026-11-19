@@ -9,6 +9,8 @@
 
 Para quien ya se mueve en la terminal y ahora tiene que administrar un servidor. Empieza por el primer día de un servidor recién instalado —red, nombre, zona horaria y hora sincronizada— y sigue con usuarios y permisos, paquetes, servicios con systemd y sus bitácoras, red y SSH, disco, firewall, tareas programadas y scripts. Cierra con lo mismo en la familia Red Hat.
 
+Y te deja ubicado frente a la [RHCSA (EX200) de Red Hat](https://www.redhat.com/es/services/training/ex200-red-hat-certified-system-administrator-rhcsa-exam): qué cubre el curso y qué te falta.
+
 Requisito: el curso [«La terminal desde cero»](https://github.com/HabilMX/curso-terminal) de esta casa, o saber usar ls, find, grep, sed, vi y htop sin ayuda.
 
 ## Cómo se aprende aquí
